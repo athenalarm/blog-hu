@@ -141,6 +141,7 @@ Amikor a [SIA DC-09 IP riasztási jelentési protokoll](https://athenalarm.com/)
             │
             ▼
 [Automatikus Zóna- és Videó-hitelesítés]
+```
 
 A szoftveres automatizáció az alábbi módon strukturálja az operátori munkafolyamatot:
 
